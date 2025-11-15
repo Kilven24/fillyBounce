@@ -1,0 +1,4 @@
+﻿ultralytics
+streamlink
+openvino
+tensorrt
