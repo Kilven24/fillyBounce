@@ -3,7 +3,7 @@
 **FillyBounce** is a real-time jump counter that tracks jumps of **Filian (VTuber)** using computer vision and machine learning.  
 It was inspired by Filian’s idea to attempt a **world record for pogo-stick jumping** during a stream.
 
-![2025-11-12 18 55 50](https://github.com/user-attachments/assets/d2640a5e-476b-40a4-adea-b22ec7b430e3)
+![2025-11-12 18 55 50](https://github.com/user-attachments/assets/1c64afde-94b5-48e2-8c5a-4961099021d2)
 
 ![MIT License](https://img.shields.io/badge/license-MIT-green)
 ![Python](https://img.shields.io/badge/python-3.13-blue)
